@@ -13,7 +13,7 @@ To run the project, you first need to install the dependencies for both the fron
 
 ### 1. Clone the repository:
 
-git clone https://github.com/Yarenaydin/Blog-App.git
+git clone https://github.com/Yarenaydin1/Blog-App.git
 
 Backend Setup
 cd backend
